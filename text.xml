@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T07:37:24.181Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.10.3" etag="3T4Y-Y1hlJC2yNGGnGZb" type="github"><diagram id="ALsNtF1ElgWt-8On2Lod">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key id="edge_weight_key" for="edge" attr.name="weight" attr.type="double">
+        <default>1.0</default>
+    </key>
+    <key id="key0" for="node" attr.name="color" attr.type="string"/>
+    <key id="key1" for="all" attr.name="name" attr.type="string"/>
+    <graph edgedefault="directed">
+        <node id="0">
+            <data key="key0">black</data>
+            <data key="key1">node-0</data>
+        </node>
+        <node id="1">
+            <data key="key0">black</data>
+            <data key="key1">node-1</data>
+        </node>
+        <node id="2">
+            <data key="key0">black</data>
+            <data key="key1">node-2</data>
+        </node>
+        <node id="3">
+            <data key="key0">black</data>
+            <data key="key1">node-3</data>
+        </node>
+        <node id="4">
+            <data key="key0">white</data>
+            <data key="key1">node-4</data>
+        </node>
+        <node id="5">
+            <data key="key0">white</data>
+            <data key="key1">node-5</data>
+        </node>
+        <edge id="0" source="0" target="1">
+            <data key="edge_weight_key">4.0</data>
+            <data key="key1">((0,black) : (1,black))</data>
+        </edge>
+        <edge id="1" source="1" target="0">
+            <data key="edge_weight_key">15.0</data>
+            <data key="key1">((1,black) : (0,black))</data>
+        </edge>
+        <edge id="2" source="0" target="2">
+            <data key="edge_weight_key">62.0</data>
+            <data key="key1">((0,black) : (2,black))</data>
+        </edge>
+        <edge id="3" source="2" target="0">
+            <data key="edge_weight_key">8.0</data>
+            <data key="key1">((2,black) : (0,black))</data>
+        </edge>
+        <edge id="4" source="0" target="3">
+            <data key="edge_weight_key">63.0</data>
+            <data key="key1">((0,black) : (3,black))</data>
+        </edge>
+        <edge id="5" source="3" target="0">
+            <data key="edge_weight_key">95.0</data>
+            <data key="key1">((3,black) : (0,black))</data>
+        </edge>
+        <edge id="6" source="0" target="4">
+            <data key="edge_weight_key">50.0</data>
+            <data key="key1">((0,black) : (4,white))</data>
+        </edge>
+        <edge id="7" source="4" target="0">
+            <data key="edge_weight_key">21.0</data>
+            <data key="key1">((4,white) : (0,black))</data>
+        </edge>
+        <edge id="8" source="0" target="5">
+            <data key="edge_weight_key">48.0</data>
+            <data key="key1">((0,black) : (5,white))</data>
+        </edge>
+        <edge id="9" source="5" target="0">
+            <data key="edge_weight_key">58.0</data>
+            <data key="key1">((5,white) : (0,black))</data>
+        </edge>
+        <edge id="10" source="1" target="2">
+            <data key="edge_weight_key">7.0</data>
+            <data key="key1">((1,black) : (2,black))</data>
+        </edge>
+        <edge id="11" source="2" target="1">
+            <data key="edge_weight_key">53.0</data>
+            <data key="key1">((2,black) : (1,black))</data>
+        </edge>
+        <edge id="12" source="1" target="3">
+            <data key="edge_weight_key">63.0</data>
+            <data key="key1">((1,black) : (3,black))</data>
+        </edge>
+        <edge id="13" source="3" target="1">
+            <data key="edge_weight_key">27.0</data>
+            <data key="key1">((3,black) : (1,black))</data>
+        </edge>
+        <edge id="14" source="1" target="4">
+            <data key="edge_weight_key">47.0</data>
+            <data key="key1">((1,black) : (4,white))</data>
+        </edge>
+        <edge id="15" source="4" target="1">
+            <data key="edge_weight_key">57.0</data>
+            <data key="key1">((4,white) : (1,black))</data>
+        </edge>
+        <edge id="16" source="1" target="5">
+            <data key="edge_weight_key">19.0</data>
+            <data key="key1">((1,black) : (5,white))</data>
+        </edge>
+        <edge id="17" source="5" target="1">
+            <data key="edge_weight_key">20.0</data>
+            <data key="key1">((5,white) : (1,black))</data>
+        </edge>
+        <edge id="18" source="2" target="3">
+            <data key="edge_weight_key">68.0</data>
+            <data key="key1">((2,black) : (3,black))</data>
+        </edge>
+        <edge id="19" source="3" target="2">
+            <data key="edge_weight_key">37.0</data>
+            <data key="key1">((3,black) : (2,black))</data>
+        </edge>
+        <edge id="20" source="2" target="4">
+            <data key="edge_weight_key">70.0</data>
+            <data key="key1">((2,black) : (4,white))</data>
+        </edge>
+        <edge id="21" source="4" target="2">
+            <data key="edge_weight_key">35.0</data>
+            <data key="key1">((4,white) : (2,black))</data>
+        </edge>
+        <edge id="22" source="2" target="5">
+            <data key="edge_weight_key">74.0</data>
+            <data key="key1">((2,black) : (5,white))</data>
+        </edge>
+        <edge id="23" source="5" target="2">
+            <data key="edge_weight_key">30.0</data>
+            <data key="key1">((5,white) : (2,black))</data>
+        </edge>
+        <edge id="24" source="3" target="4">
+            <data key="edge_weight_key">14.0</data>
+            <data key="key1">((3,black) : (4,white))</data>
+        </edge>
+        <edge id="25" source="4" target="3">
+            <data key="edge_weight_key">3.0</data>
+            <data key="key1">((4,white) : (3,black))</data>
+        </edge>
+        <edge id="26" source="3" target="5">
+            <data key="edge_weight_key">21.0</data>
+            <data key="key1">((3,black) : (5,white))</data>
+        </edge>
+        <edge id="27" source="5" target="3">
+            <data key="edge_weight_key">61.0</data>
+            <data key="key1">((5,white) : (3,black))</data>
+        </edge>
+        <edge id="28" source="4" target="5">
+            <data key="edge_weight_key">38.0</data>
+            <data key="key1">((4,white) : (5,white))</data>
+        </edge>
+        <edge id="29" source="5" target="4">
+            <data key="edge_weight_key">4.0</data>
+            <data key="key1">((5,white) : (4,white))</data>
+        </edge>
+    </graph>
+</graphml>
